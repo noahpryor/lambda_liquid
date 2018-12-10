@@ -1,0 +1,19 @@
+GIT
+  remote: https://github.com/shopify/liquid
+  revision: 2b3c81cfd05ef23869d88cde03faafa1d393ac5b
+  branch: master
+  specs:
+    liquid (4.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  liquid!
+
+BUNDLED WITH
+   1.17.1
